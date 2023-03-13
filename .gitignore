@@ -1,0 +1,26 @@
+# Spring Boot-specific ignores
+target/
+!.mvn/wrapper/maven-wrapper.jar
+
+# IDE ignores
+.idea/
+*.iml
+*.iws
+*.ipr
+
+# Maven ignores
+.mvn/
+
+# Logs
+logs/
+*.log
+*.log.*
+*.access
+*.access.*
+
+# Test reports
+test-output/
+
+# Gradle ignores
+.gradle/
+build/
